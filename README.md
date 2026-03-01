@@ -29,4 +29,4 @@ Dextera was built for my grandfather, who loved music but could no longer play p
 
 Research from the Parkinson’s Foundation, UCL, and other institutions suggests that **music therapy** can help reduce bradykinesia and support motor function, gait, speech, and mood. Dextera is designed to adapt to **different stages of motor control**. Users in earlier stages can play by tapping the on-screen keys with their fingers. For those who find precise tapping challenging, Hand Mode offers an alternative: point a finger toward the camera to trigger a note, without needing to press the target on the screen.
 
-_Dextera was designed to give people with limited dexterity a way to play their favourite songs again.
+_Dextera was designed to give people with limited dexterity a way to play their favourite songs again._
