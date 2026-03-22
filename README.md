@@ -1,6 +1,8 @@
-<img width="165" height="165" alt="AppIcon" src="https://github.com/user-attachments/assets/a6566c01-4b0b-45fd-8139-3b17901e0fe1" />
+<p align="center">
+  <img width="165" height="165" alt="AppIcon" src="https://github.com/user-attachments/assets/a6566c01-4b0b-45fd-8139-3b17901e0fe1" />
+</p>
 
-# Dextera 🎹
+<h1 align="center">Dextera 🎹</h1>
 
 **Music that moves with you.**
 
