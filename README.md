@@ -8,6 +8,8 @@
 
 Dextera makes piano practice more accessible for people with Parkinson's disease. Around 7–10 million people worldwide live with Parkinson's, and up to 90% experience **bradykinesia** (slowness of movement) and tremors. Dextera combines a simplified on-screen keyboard with **camera-based Hand Mode**, so you can play notes using hand gestures instead of touch.
 
+Dextera is a ** 2026 Apple Swift Student Challenge Winner** and is featured on the [WWDC Scholars page](https://www.wwdcscholars.com/s/228CEB5B-30BA-417A-97D0-5EBB44050B28/2026)!!
+
 ## Key Features 🎼
 
 - **Guided practice** — Step-by-step note highlighting for familiar songs (Twinkle Twinkle, Mary Had a Little Lamb, Ode to Joy, Scales). Sessions are saved automatically.
